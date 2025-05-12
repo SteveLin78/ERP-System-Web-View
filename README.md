@@ -1,4 +1,4 @@
-以下是根據你提供的 HTML + JavaScript 程式碼撰寫的 `README.md` 範本，適合放在 GitHub 或其他代碼倉庫中作為專案說明文件：
+SteveLin提供的 HTML + JavaScript 程式碼撰寫的 `README.md` 範本，適合放在 GitHub 或其他代碼倉庫中作為專案說明文件：
 
 ---
 
